@@ -1,5 +1,3 @@
-package tests;
-
 import java.io.*;
 
 /**
@@ -19,7 +17,7 @@ public class MyFileHandlerTest {
     public static void main(String[] args) {
         try {
             System.out.println("Starting tests...");
-
+            //
             // Test: Create a file and write content
             String filename = "testFile.txt";
             String content = "Hello, world!";

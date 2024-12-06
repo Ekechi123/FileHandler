@@ -38,7 +38,7 @@ public class MyFileHandler {
         }
         return content.toString().trim();
     }
-
+    // 
     /**
      * Appends content to an existing file.
      *
