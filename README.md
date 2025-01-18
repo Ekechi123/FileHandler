@@ -1,21 +1,23 @@
-## FileHandler Project
+## Overview
 
-This project implements basic file I/O operations in Java, including:
+This project provides a utility for basic file operations, including:
 
-Writing content to a file
-Reading content from a file
-Appending content to an existing file
-Features:
-writeToFile: Creates a file and writes content.
-readFromFile: Reads content from a file.
-appendToFile: Appends content to an existing file.
-Running Tests:
-To test the functionality, run the MyFileHandlerTest.java file, which tests all operations.
+- Writing content to a file
+- Reading content from a file
+- Appending content to an existing file
 
-How to Run:
-Compile the Java files:
-javac MyFileHandler.java MyFileHandlerTest.java
-Run the test class:
-java MyFileHandlerTest
-Requirements:
-Java 8 or higher.
+The utility also includes a test suite to verify file operations.
+
+## Features
+
+- ✅ **Write** content to a file 
+- 🔒 **Read** content from a file
+- ✨ **Append** content to a file
+- 🧪 **Test** file operations for correctness
+
+## How to Use
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/Ekechi123/JavaFileHandler.git
